@@ -97,5 +97,6 @@ Modification  d'un etudiant:
 ![m9](https://github.com/salmachtioui/TpAjax/assets/147477621/c07f74c0-c1d8-477c-93d6-d83659beda1c)
 # Gestion des machines reference:
 ![m10](https://github.com/salmachtioui/TpAjax/assets/147477621/a455a7fe-0160-47df-9fc3-d7755828fc73)
-
+# Graphe machines par marque
+![image](https://github.com/salmachtioui/TpAjax/assets/147477621/cc43cc03-259a-4849-8d0a-282ed23bbdfa)
 
