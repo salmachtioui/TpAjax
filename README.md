@@ -15,7 +15,6 @@ L'objectif central de ce projet est l'apprentissage de l'utilisation d'AJAX (Asy
 - HTML
 - CSS
 - JavaScript
-- jQuery
 - AJAX
 - GlassFish (Serveur d'application)
 
@@ -70,6 +69,33 @@ Le projet est organisé en plusieurs packages et répertoires :
 3. Exécutez le projet sur un serveur GlassFish.
 4. Accédez à l'application en ouvrant le lien fourni dans votre navigateur web.
 
-## Auteurs
+## Screensshots
+# Gestion des Étudiants
+Cette interface permet aux utilisateurs de gérer les données relatives aux étudiants enregistrés dans le système.
+Elle affiche un tableau contenant des informations sur les étudiants
+# Gestion des étudiants:
+![m1](https://github.com/salmachtioui/TpAjax/assets/147477621/136d43f3-6042-45a3-91cc-e8119fd2e6b8)
+# Exemples de suppression/modification:
+On prend la gestion des étudianrs comme exemple:
+Suppression  d'un etudiant:
+# Avant:
+![m2](https://github.com/salmachtioui/TpAjax/assets/147477621/b8a7fc31-a127-4e46-9e6a-4169cc3f63a9)
+# Apres:
+![m3](https://github.com/salmachtioui/TpAjax/assets/147477621/11c96053-7db4-46b2-b54b-cb63a80547b9)
+Modification  d'un etudiant:
+# Avant:
+![m4](https://github.com/salmachtioui/TpAjax/assets/147477621/dcdc8cfe-7319-49ba-9f05-eedd8da8f0a9)
+# Apres:
+![m5](https://github.com/salmachtioui/TpAjax/assets/147477621/c0129e9e-4fb2-42d9-9444-8578f4086e5d)
+# Gestion des marques :
+![m6](https://github.com/salmachtioui/TpAjax/assets/147477621/676ba97b-2f8c-45ac-b0e1-7f2ef9711055)
+# Gestion des references:
+![m7](https://github.com/salmachtioui/TpAjax/assets/147477621/d9868e50-ce82-4cf4-bf94-d754ef0b18b6)
+# Gestion des machines:
+![m8](https://github.com/salmachtioui/TpAjax/assets/147477621/c655857c-199d-45e9-8243-2c0f2f64dcab)
+# Gestion des machines marque:
+![m9](https://github.com/salmachtioui/TpAjax/assets/147477621/c07f74c0-c1d8-477c-93d6-d83659beda1c)
+# Gestion des machines reference:
+![m10](https://github.com/salmachtioui/TpAjax/assets/147477621/a455a7fe-0160-47df-9fc3-d7755828fc73)
 
-Ce projet a été développé par [insérer les noms des auteurs ici].
+
